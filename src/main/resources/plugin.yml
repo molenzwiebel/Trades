@@ -1,0 +1,4 @@
+name: Trades
+main: nl.thijsmolendijk.trades.Trades
+version: 0.0.1
+author: molenzwiebel
